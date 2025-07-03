@@ -1,0 +1,12 @@
+Norte:  
+Corporativo  
+Ges1KTSalto IP: 172.23.33.246  
+Ges2KTSalto IP: 172.23.33.247
+
+R.LAN  
+Ges1RSalto IP: 172.21.10.51  
+Ges2RSalto IP: 172.21.10.52  
+  
+Centro:  
+VCWSALTO01 - 172.30.113.118  
+VCWSALTO02 - 172.30.113.119

@@ -1,0 +1,1 @@
+rw,bg,nfsvers=3,rsize=1048576,wsize=1048576,nolock,actimeo=3,hard,intr 0 0

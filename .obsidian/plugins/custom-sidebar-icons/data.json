@@ -1,0 +1,41 @@
+{
+  "DefaultFolderIcon": [
+    {
+      "image": "crown",
+      "type": "lucide"
+    }
+  ],
+  "DefaultFileIcon": [
+    {
+      "image": "file-text",
+      "type": "lucide"
+    }
+  ],
+  "SidebarIcons": [
+    {
+      "id": "sidebar-icon-jkogwnakl",
+      "label": "metasploit",
+      "image": "C:\\Users\\Adrian Alonso\\Documents\\Infortec\\Icons\\6804247-middle.svg",
+      "type": "custom"
+    },
+    {
+      "id": "sidebar-icon-3iattypc8",
+      "label": "meta",
+      "image": "C:\\Users\\Adrian Alonso\\Documents\\Infortec\\Icons\\6804247-middle.png",
+      "type": "custom"
+    }
+  ],
+  "FolderIcons": [],
+  "FileIcons": [],
+  "InternalLinkIcons": [
+    {
+      "id": "internalLink-icon-123456789",
+      "path": [
+        "md"
+      ],
+      "image": "file-text",
+      "type": "lucide"
+    }
+  ],
+  "customIcons": []
+}

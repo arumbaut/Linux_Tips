@@ -1,0 +1,3 @@
+con el comando:
+
+rvtquery

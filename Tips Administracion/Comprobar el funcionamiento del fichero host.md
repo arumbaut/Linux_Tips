@@ -1,0 +1,1 @@
+Resolve-DnsName nombre_maq_host

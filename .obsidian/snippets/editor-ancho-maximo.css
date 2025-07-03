@@ -1,0 +1,33 @@
+/* FORZAR ancho completo del editor en Obsidian
+.workspace-split.mod-root > .workspace-leaf,
+.workspace-split.mod-root > .workspace-leaf .workspace-leaf-content,
+.markdown-source-view.is-readable-line-width .cm-s-obsidian,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
+.markdown-reading-view .markdown-preview-sizer {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0px !important;
+  margin: 0px auto !important;
+}
+   */
+
+/* Expande editor al ancho completo en el tema Minimal */
+.theme-minimal .markdown-source-view.is-readable-line-width .cm-s-obsidian,
+.theme-minimal .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+/* También eliminar el centrado de contenido */
+.theme-minimal .markdown-preview-sizer {
+  margin: 0 !important;
+}
+
+/* Evitar que el contenedor limite el ancho */
+.theme-minimal .workspace-leaf-content {
+  padding: 0 !important;
+}

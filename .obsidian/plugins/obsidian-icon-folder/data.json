@@ -1,0 +1,142 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 25,
+    "emojiStyle": "native",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "LiFolder",
+      "🧠",
+      "⚙",
+      "📓",
+      "💪"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Infortec": "LiFolder",
+  "Infortec/Comando para hacer pruebas con los pass de los usuarios.md": "LiNotebookPen",
+  "Infortec/Configuración de webserver en modalidad NODSR (NMCLI) SANTIAGO/Configuración de webserver en modalidad NODSR (NMCLI) SANTIAGO - Atlas Wiki @ Kyndryl.md": "LiNotebookPen",
+  "Infortec/Configuración de webserver en modalidad NODSR (NMCLI) SANTIAGO": "LiFolder",
+  "Cómo configurar bonding en RHEL.md": "LiNotebookPen",
+  "Infortec/Configurar Interfaces de Red": "LiFolder",
+  "Infortec/Configurar Interfaces de Red/Configuración de interfaces de red (NMCLI) SANTIAGO - Atlas Wiki @ Kyndryl.md": "LiNotebookPen",
+  "Infortec/Configurar Interfaces de Red/Configuración de interfaces de red (OBSOLETO) SANTIAGO - Atlas Wiki @ Kyndryl.md": "LiNotebookPen",
+  "Tips Administracion": "💡",
+  "Infortec/Usuarios": "LiFolder",
+  "Infortec/Usuarios/Creacion de Usuarios..md": "LiUserPlus2",
+  "Infortec/Usuarios/Modificar el home del usario.md": "LiUserCog",
+  "Infortec/Alias Importantes en ADM00001.md": "LiNotebookPen",
+  "Infortec/Usuarios/Resetear la pas en todas la maquinas.md": "🤞",
+  "Infortec/ORACLE": "LiFolder",
+  "Infortec/Grupos Remedy": "LiFolder",
+  "Infortec/Agente TrendMicro": "LiFolder",
+  "Infortec/Agente TrendMicro/Conectar a maquina GPC.md": "1️⃣",
+  "Infortec/Agente TrendMicro/Ver el proxy que tiene el Sistema configurado.md": "LiFilter",
+  "Infortec/Agente TrendMicro/Instalar en Maquinas GCP.md": "3️⃣",
+  "Infortec/Agente TrendMicro/Instalacion de agente Trendmicro.md": "2️⃣",
+  "Infortec/Agente TrendMicro/Parar agente.md": "4️⃣",
+  "Infortec/Abrir casos con soporte": "LiFolder",
+  "Infortec/Baja ESX": "LiFolder",
+  "Infortec/Casos especiales de conexion": "LiFolder",
+  "Infortec/Historico": "LiHistory",
+  "Infortec/Consultas LUN. VMDK. etc": {
+    "iconName": "LiFolder",
+    "iconColor": "#1fb814"
+  },
+  "Infortec/Filesystems": "LiFolder",
+  "Infortec/Filesystems/Proceso Crear un file sistem.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#3fe212"
+  },
+  "Infortec/Filesystems/Proceso Extender un filesystem.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#39ca1c"
+  },
+  "Infortec/Filesystems/LVM": "LiFolder",
+  "Infortec/Filesystems/LVM/LVM Concepts.md": "LiHardDrive",
+  "Infortec/Filesystems/Eliminación de filesystem LVM.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#00eb52"
+  },
+  "Infortec/Filesystems/Eliminar los discos que ya no estén siendo utilizados.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#0ff40b"
+  },
+  "Infortec/RSA": "LiFolder",
+  "Tips Administracion/Cursos Infortec": "🧑‍🏫",
+  "Tips Administracion/Cursos Infortec/Analisis Forense": "🔎",
+  "Tips Administracion/Cursos Infortec/Analisis Forense/Análisis forense básico en sistemas Linux.md": "🐧",
+  "Tips Administracion/Comandos Importantes": {
+    "iconName": "LiSquareChevronLeft",
+    "iconColor": "#ab3030"
+  },
+  "Tips Administracion/Comandos Importantes/Usuarios y Grupos.md": {
+    "iconName": "LiUsers",
+    "iconColor": "#250ce4"
+  },
+  "Tips Administracion/Comandos Importantes/Comandos Utiles con Find.md": {
+    "iconName": "LiGlasses",
+    "iconColor": "#c01616"
+  },
+  "Tips Administracion/Comandos Importantes/Conectar SSH mediante key.md": {
+    "iconName": "LiAppWindowMac",
+    "iconColor": "#c81919"
+  },
+  "Tips Administracion/Comandos Importantes/Comandos que te salvan el dia.md": {
+    "iconName": "LiCrown",
+    "iconColor": "#cbab3a"
+  },
+  "Tips Administracion/Comandos Importantes/Conectar WSL via SSH.md": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#db0ad4"
+  },
+  "Tips Administracion/Comandos Importantes/Manipular Procesos.md": "LiActivitySquare",
+  "Tips Administracion/Comandos Importantes/Vim Cheat Sheet.md": {
+    "iconName": "LiEdit2",
+    "iconColor": "#dd1d1d"
+  },
+  "Tips Administracion/Cursos Infortec/Analisis Forense/Análisis forense Avanzado en sistemas Linux.md": "🐧",
+  "Infortec/Usuarios/Apuntes usuarios": "LiFolder",
+  "Infortec/Filesystems/Migrar disco (pvmove) multipath (RAW) en Linux (proyectos de liberación de cabina) OLDZHAY - Atlas Wiki @ Kyndryl.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#1fd507"
+  },
+  "Infortec/Usuarios/Revisar los usuarios que faltan en las Maquinas.md": "💪",
+  "Infortec/Filesystems/Crear y montar los FIleSystem desde 0.md": "📓",
+  "Tips Administracion/Comandos Importantes/POWERSHELL/Powershell crear un scrip y crear un alias.md": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#ed0cc4"
+  },
+  "Tips Administracion/Comandos Importantes/POWERSHELL/Powershel en Modo debug.md": "⚙",
+  "Tips Administracion/Diagnosticar/Diagnosticar qué parte de la red está fallando.md": {
+    "iconName": "LiNetwork",
+    "iconColor": "#ca4e4e"
+  },
+  "Tips Administracion/Diagnosticar/PLAN PARA GESTIÓN DE ESPACIO EN DISCO CRÍTICO.md": {
+    "iconName": "LiHardDrive",
+    "iconColor": "#e13d3d"
+  },
+  "Tips Administracion/Comandos Importantes/Kung Fu Bash Scripting Tricks Resumen.md": "🧠",
+  "Infortec/TCPDUMP": "LiFolder"
+}

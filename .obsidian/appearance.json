@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 23,
+  "theme": "obsidian",
+  "accentColor": "#2684ba",
+  "enabledCssSnippets": [
+    "resaltado",
+    "CustomIcon-AutoGen"
+  ]
+}

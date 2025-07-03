@@ -1,0 +1,1 @@
+con el comando rvtquery -mm

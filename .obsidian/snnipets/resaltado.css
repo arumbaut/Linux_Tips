@@ -1,0 +1,5 @@
+.markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight {
+  background-color: #da210d; /* Cambia esto por el color que desees */
+  color: rgb(239, 236, 236);              /* Opcional: cambia el color del texto dentro del resaltado */
+}

@@ -1,0 +1,1 @@
+du -ahx --max-depth=1 /var/ | sort -rh | head -n 10

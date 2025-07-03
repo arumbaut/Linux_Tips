@@ -1,0 +1,1 @@
+chage -M -1 "usuario"

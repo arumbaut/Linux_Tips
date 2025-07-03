@@ -1,0 +1,1 @@
+( 'Categorización Nivel 1' = "PETICIONES RFS" ) AND ( 'Grupo asignado+' = "Atlas_Soporte_Linux_Vmware" ) AND ( 'Estado' = "Cerrado" )
