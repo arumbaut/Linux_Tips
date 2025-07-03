@@ -1,1 +1,0 @@
-mokutil --sb-state

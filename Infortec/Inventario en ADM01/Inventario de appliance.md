@@ -1,1 +1,0 @@
-Esta en el fichero /home/esy9f2m9/INFOSERVER/l_app
